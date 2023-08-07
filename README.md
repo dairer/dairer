@@ -1,8 +1,13 @@
-### hello!
+PhD student developing spatiotemporal models to better understand changing extreme weather events in the context of climate change in Ireland.
 
-I’m currently a PhD student developing spatiotemporal models to better understand changing extreme weather events in the context of climate change in Ireland.
+My main research interests lie in 
+- extreme value theory-based methods,
+- high-dimensional computational statistics,
+- climate change analysis. 
 
-My main research interests lie in extreme value theory-based methods, high-dimensional computational statistics, and climate change analysis. 
+Below you'll find some (hopefully) useful software I have developed!
+
+
 <!--
 **dairer/dairer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
