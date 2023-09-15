@@ -2,7 +2,7 @@ PhD student developing spatiotemporal models to better understand changing extre
 
 My main research interests lie in 
 - extreme value theory-based methods,
-- Machine learning methods,
+- machine learning methods,
 - climate change analysis,
 - high-dimensional computational statistics,
 
