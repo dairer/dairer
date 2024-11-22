@@ -1,4 +1,4 @@
-PhD student developing spatiotemporal models to better understand changing extreme weather events in the context of climate change in Ireland.
+Developing spatiotemporal models to better understand changing extreme weather events in the context of climate change.
 
 My main research interests lie in 
 - extreme value theory-based methods,
